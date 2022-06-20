@@ -5,5 +5,5 @@ Game repository: https://github.com/STARBATTLE-online/STARBATTLE
 
 Game website: http://starbattle.ml/
 
-Move with arrows
+Move with arrows  
 Shoot with left mouse button
