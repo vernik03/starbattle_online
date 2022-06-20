@@ -1,5 +1,5 @@
 # STARBATTLE
-*Here will be .exe file*
+*You can extract files from archive and play!*
 
 Game repository: https://github.com/STARBATTLE-online/STARBATTLE
 
