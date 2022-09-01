@@ -1,0 +1,17 @@
+.vs
+.vscode
+
+server
+
+client/x64
+
+client/client/x64
+client/client/Debug
+
+FrameworkRelease_x64.dll
+FrameworkRelease_x64.lib
+libjpeg-9.dll
+libpng16-16.dll
+SDL2.dll
+SDL2_image
+zlib1.dll

@@ -1,0 +1,9 @@
+namespace testgame
+{
+    [default_interface]
+    runtimeclass KeyHandling : Windows.UI.Xaml.Controls.Page
+    {
+        KeyHandling();
+        Int32 MyProperty;
+    }
+}
